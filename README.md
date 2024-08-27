@@ -1,4 +1,4 @@
-# bloogsugarml
+# bloodsugarml
 My colabs and analysis of my blood sugar levels over time, learning how to apply ML/AI methods
 
 The main goal is to re-acquaint myself with modern libraries for regression, neural networks and (ultimately) LLMs.
